@@ -1,0 +1,14 @@
+{
+  "name": "is-abs",
+  "version": "1.0.0",
+  "description": "is the string?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abs"
+  ],
+  "author": "Bilal Ansari",
+  "license": "ISC"
+}
